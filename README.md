@@ -1,1 +1,0 @@
-# hang_man
